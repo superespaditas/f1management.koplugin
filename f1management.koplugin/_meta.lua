@@ -1,4 +1,3 @@
-
 local _ = require("gettext")
 return {
     name = "f1management",
